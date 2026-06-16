@@ -27,7 +27,7 @@
 
   <div class="drawer-content flex min-h-screen flex-col">
     <header
-      class="navbar bg-primary text-primary-content px-4 sticky top-0 z-10 md:min-h-36"
+      class="navbar bg-primary text-primary-content px-4 sticky top-0 z-10 lg:min-h-36"
     >
       <!-- Logo -->
       <div class="flex-1 md:flex-none">
@@ -35,7 +35,7 @@
           <img
             src="/images/logo.png"
             alt="ForceMap"
-            class="md:h-32 w-auto hidden md:block drop-shadow-[0_2px_6px_rgba(255,255,255,0.6)]"
+            class="md:h-14 lg:h-32 w-auto hidden md:block drop-shadow-[0_2px_6px_rgba(255,255,255,0.6)]"
           />
           <span class="text-lg font-bold tracking-tight text-white md:hidden"
             >ForceMap</span
