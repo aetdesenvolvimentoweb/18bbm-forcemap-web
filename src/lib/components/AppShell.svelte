@@ -27,7 +27,7 @@
 
   <div class="drawer-content flex min-h-screen flex-col">
     <header
-      class="navbar bg-primary text-primary-content px-4 sticky top-0 z-10 lg:min-h-36"
+      class="navbar bg-primary text-primary-content px-4 lg:min-h-36"
     >
       <!-- Logo -->
       <div class="flex-1 md:flex-none">
